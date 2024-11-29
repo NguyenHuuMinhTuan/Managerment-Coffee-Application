@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lapTrinhTrucQuan\\DoAnBanHangShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98CC7250-ADA4-45E7-9B06-2DB90A80F166}|DoAnBanHangShop.csproj|d:\\laptrinhtrucquan\\doanbanhangshop\\smspassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98CC7250-ADA4-45E7-9B06-2DB90A80F166}|DoAnBanHangShop.csproj|solutionrelative:smspassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SMSPassword.cs [Design]",
+              "DocumentMoniker": "D:\\lapTrinhTrucQuan\\DoAnBanHangShop\\SMSPassword.cs",
+              "RelativeDocumentMoniker": "SMSPassword.cs",
+              "ToolTip": "D:\\lapTrinhTrucQuan\\DoAnBanHangShop\\SMSPassword.cs [Design]",
+              "RelativeToolTip": "SMSPassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T12:00:22.737Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

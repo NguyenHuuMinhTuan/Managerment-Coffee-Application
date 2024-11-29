@@ -1,0 +1,1 @@
+Data Source=ADMIN;Initial Catalog=Shop_TL;Integrated Security=True
